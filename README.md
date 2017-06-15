@@ -1,1 +1,1 @@
-# MobileComputing_kalkulator
+Simple Calculator apps use Android Studio

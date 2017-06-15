@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\KULIAH\MOBCOM\AndroidProject\Kalkulator\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="D:\KULIAH\MOBCOM\AndroidProject\Kalkulator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.2.0_08180a2d2f71f31ab27f1de1a457b77db9657604\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\KULIAH\MOBCOM\AndroidProject\Kalkulator\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="D:\KULIAH\MOBCOM\AndroidProject\Kalkulator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.2.0_f2af628b7dfa025e0cb882051d38b19861101a48\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\KULIAH\MOBCOM\AndroidProject\Kalkulator\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="D:\KULIAH\MOBCOM\AndroidProject\Kalkulator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.2.0_ec71ee700b48aed457812266ab80484580edf01b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\KULIAH\MOBCOM\AndroidProject\Kalkulator\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="D:\KULIAH\MOBCOM\AndroidProject\Kalkulator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.2.0_be642b8765ee7ea90c3ea1c20dba15c15d65effe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\KULIAH\MOBCOM\AndroidProject\Kalkulator\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc312930f4e9165be46fb0fe32b0f6512b8ec810">
+        <dex dex="D:\KULIAH\MOBCOM\AndroidProject\Kalkulator\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_37ca766b03dba55301e04304f22102163c14406e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\KULIAH\MOBCOM\AndroidProject\Kalkulator\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="D:\KULIAH\MOBCOM\AndroidProject\Kalkulator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.2.0_99ed14aefb724d94d660396264f953f006ea8201\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\KULIAH\MOBCOM\AndroidProject\Kalkulator\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="D:\KULIAH\MOBCOM\AndroidProject\Kalkulator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.2.0_19fad2a6d5404c683380ed9df4cf0b1c1eb58584\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\KULIAH\MOBCOM\AndroidProject\Kalkulator\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2afefb4656155eeef06571edc09beda40aa9dfd8">
+        <dex dex="D:\KULIAH\MOBCOM\AndroidProject\Kalkulator\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a00e65d606668596c56e91392def20aae0524a3b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="D:\KULIAH\MOBCOM\AndroidProject\Kalkulator\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.2.0_9e24f7f490ed7547b7a2f62d633493984da9695f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\KULIAH\MOBCOM\AndroidProject\Kalkulator\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\KULIAH\MOBCOM\AndroidProject\Kalkulator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.2.0_cf08b4d345333b94a186a67cf9134468dcf82400\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\KULIAH\MOBCOM\AndroidProject\Kalkulator\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="D:\KULIAH\MOBCOM\AndroidProject\Kalkulator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.2.0_032a5e13e7ea1a95e3aa39df315f657bca5a01f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\KULIAH\MOBCOM\AndroidProject\Kalkulator\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="D:\KULIAH\MOBCOM\AndroidProject\Kalkulator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.2.0_9bfb5777f8c053fde6389c27d76bfd724f5c018d\classes.dex" />
+    </item>
+
+</items>
